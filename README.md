@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!-- ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)(https://rishavchanda.io) -->
 <h1 align="center">Hi 👋, I'm Michael Paliz Morales</h1>
-<h3 align="center">A passionate student of software development.I mostly use this gitHub to work on my personal projects.</h3>
+<h3 align="center">A passionate student of software development, I mostly use this gitHub to work on my personal projects.</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
