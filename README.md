@@ -7,13 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michelpaliz&label=Profile%20views&color=0e75b6&style=flat" alt="michelpaliz" /> </p>
 
-- 🔭 I'm currently working on creating a simply api [SpringBoot](https://github.com/michelpaliz/SpringBoot)
-
-- 👨‍💻 All of my projects are available at [portofolio.paliz.es](portofolio.paliz.es)
-
-- 📝 I regularly write articles on [tech.paliz.es](tech.paliz.es)
-
-- 💬 Ask me about anything you'd like. **Java**
+- 📝 Visit my webpage !! [http://fastezcode.com/](http://fastezcode.com/)
 
 - 📫 How to reach me **michelpaliz@hotmail.com**
 
