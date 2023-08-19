@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michelpaliz&label=Profile%20views&color=0e75b6&style=flat" alt="michelpaliz" /> </p>
 
-- 📝 Visit my webpage !! [http://fastezcode.com/](http://fastezcode.com/)
+- 📝 Visit my webpage !! [fastezcode.com](http://fastezcode.com/)
 
 - 📫 How to reach me **michelpaliz@hotmail.com**
 
