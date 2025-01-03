@@ -1,7 +1,6 @@
-![Banner](https://your-image-url.com/banner.png)
 
 <h1 align="center">Hi 👋, I'm Michael Paliz Morales</h1>
-<h3 align="center">A passionate software developer and freelance developer with expertise in full-stack, mobile apps, and AI development</h3>
+<h3 align="center">A passionate software developer and freelance developer with expertise in full-stack, mobile apps, AI, and cloud-hosted projects</h3>
 
 <!-- Animated GIF -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -16,6 +15,7 @@
 - 🔭 I’m currently focused on **[fastezcode.com](http://fastezcode.com)**, a blog platform to document my tech journey and projects.
 - 🌱 Exploring **AI development**, alongside full-stack and mobile app projects.
 - 💻 Experienced as a **freelance developer**, delivering full-cycle projects independently.
+- ☁️ Skilled in deploying projects using **local hosting**, **remote hosting**, **cloud services**, and **Raspberry Pi**.
 - 📚 Currently studying **AI research and development**, with practical experience in computer vision and model training.
 - 📫 Reach me at **michelpaliz@hotmail.com**.
 - 🌐 Let's connect on [LinkedIn](https://www.linkedin.com/in/michael-paliz-33860b179/).
@@ -43,11 +43,25 @@
 ---
 
 ### 💻 Skills
+
+#### **Programming and Frameworks**
 - **Frontend Development**: HTML, CSS, JavaScript, React, Flutter.
-- **Backend Development**: Java (Spring Boot), Python, MySQL, APIs.
-- **Mobile Development**: Flutter, Android.
-- **AI Development**: TensorFlow, PyTorch, Computer Vision.
-- **Other Tools**: Git, Linux, Bootstrap, Nginx.
+- **Backend Development**: Java (Spring Boot), Python, APIs.
+
+#### **Databases**
+- **SQL Databases**: MySQL, PostgreSQL.
+- **NoSQL Databases**: MongoDB.
+
+#### **Hosting and Cloud Services**
+- Local and remote project hosting.
+- Cloud platforms for deployment and scaling.
+- Hosting on **Raspberry Pi** for personal and experimental projects.
+
+#### **AI Development**
+- TensorFlow, PyTorch, Computer Vision.
+
+#### **Other Tools**
+- Git, Linux, Bootstrap, Nginx.
 
 ---
 
