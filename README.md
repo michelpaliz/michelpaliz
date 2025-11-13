@@ -1,73 +1,76 @@
-<h1 align="center">Hi 👋, I'm Michael Paliz</h1>
-<h3 align="center">Full-Stack & Mobile Developer | AI & Cloud Enthusiast</h3>
-
-<img align="right" alt="Coding" width="330" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1 align="center">Michael Paliz</h1>
+<h3 align="center">Full-Stack & Mobile Developer | AI & Cloud Engineering</h3>
 
 ---
 
-### 🚀 About Me
-- Full-stack & mobile developer with hands-on experience in **Flutter, Node.js, Python, and AI**.  
-- Freelance developer capable of delivering **end-to-end production-ready apps**.  
-- Strong focus on **clean architecture, scalability, and real-time systems**.  
-- Experienced in **cloud deployment**, **Raspberry Pi hosting**, and **DevOps workflows**.  
-- Currently exploring **AI, computer vision, and model training**.  
-- 📧 Contact: **michelpaliz@hotmail.com**  
+### 👋 About Me
+I’m a software developer specialized in **full-stack development, mobile applications, AI, and cloud deployment**. I build complete, scalable, and secure products — from architecture to deployment — with a strong focus on clean code, reliability, and performance.
+
+- Full-stack & mobile developer: **Flutter, Node.js, Python**  
+- AI student & practitioner: **Computer Vision, TensorFlow, PyTorch**  
+- Experienced in **cloud platforms (Azure)**, **remote hosting**, and **Raspberry Pi deployments**  
+- Freelance experience delivering **end-to-end projects independently**  
+- Passionate about architecture, real-time systems, and automation  
+- 📧 Email: **michelpaliz@hotmail.com**  
 - 🔗 LinkedIn: [Michael Paliz](https://www.linkedin.com/in/michael-paliz-33860b179/)  
 
 ---
 
-### 🧩 Featured Projects
+### 🚀 Featured Projects
 
-#### **📌 Hexora — Collaborative Calendar App (Full Stack)**
+#### **Hexora — Collaborative Calendar App**
 **Flutter · Node.js · MongoDB · Socket.IO · Azure · JWT · Clean Architecture**  
-- Real-time events, notifications, and group management.  
-- Secure authentication with roles & permissions.  
-- Productivity analytics using charts.  
-- Cloud image storage via Azure Blob.  
-➡️ **Code**: https://github.com/michelpaliz/Hexora  
+A complete real-time collaboration platform with group management, analytics, and cloud-based file storage.
+
+- Real-time events & push notifications  
+- Role-based authentication system with JWT  
+- Productivity metrics and dashboards  
+- Modular REST API with high scalability  
+- Cloud image storage with Azure Blob  
+👉 **Repo:** https://github.com/michelpaliz/Hexora  
 
 ---
 
-#### **📌 Blog Platform — fastezcode.com**
-A personal blog documenting tech insights, AI experiments, and new projects.  
-- Backend & frontend built and maintained by me.  
-➡️ **Frontend**: https://github.com/michelpaliz/fastezcode  
-➡️ **Backend**: https://github.com/michelpaliz/bck_fastezcode  
+#### **fastezcode.com — Personal Tech Blog**
+A platform where I document projects, experiments, and AI research.  
+- Custom backend & frontend  
+👉 **Frontend:** https://github.com/michelpaliz/fastezcode  
+👉 **Backend:** https://github.com/michelpaliz/bck_fastezcode  
 
 ---
 
-#### **📌 AI Research — Computer Vision Training**
-Training ML models with COCO datasets & custom pipelines.  
-➡️ https://github.com/michelpaliz/coco_training  
+#### **AI Research — COCO Model Training**
+Computer vision experiments using COCO datasets and custom pipelines.  
+👉 **Repo:** https://github.com/michelpaliz/coco_training  
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Frontend:**  
-React · Flutter · HTML · CSS · JavaScript  
+**Frontend**  
+React · Flutter · JavaScript · HTML · CSS
 
-**Backend:**  
-Node.js · Express · Python · Java (Spring Boot)  
+**Backend**  
+Node.js · Express · Python · Java (Spring Boot)
 
-**Databases:**  
-MongoDB · MySQL · PostgreSQL  
+**Databases**  
+MongoDB · MySQL · PostgreSQL
 
-**AI & Data:**  
-TensorFlow · PyTorch · OpenCV  
+**AI & Data**  
+TensorFlow · PyTorch · OpenCV
 
-**Cloud & Deployment:**  
-Azure · Remote hosting · Local servers · Raspberry Pi · Nginx  
+**Cloud & Deployment**  
+Azure · Remote hosting · Raspberry Pi · Nginx
 
-**Other:**  
-Git · Linux · Clean Architecture · REST APIs  
+**Other**  
+Git · Linux · Clean Architecture · REST APIs · CI/CD
 
 ---
 
 ### 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=michelpaliz&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=michelpaliz&theme=radical" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=michelpaliz&show_icons=true&theme=transparent" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=michelpaliz&theme=transparent" alt="streak" />
 </p>
 
 ---
