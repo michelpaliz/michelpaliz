@@ -116,15 +116,3 @@ Hexora is being developed as a scalable SaaS platform capable of adapting to mul
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=michelpaliz&show_icons=true&theme=github_dark" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelpaliz&layout=compact&theme=github_dark" />
-</p>
-
----
-
-<p align="center">
-<i>Building software focused on solving real operational problems.</i>
-</p>
